@@ -2,7 +2,7 @@
 
 ## Project Discription
 
-This is a discription for my mobile friendly class
+This is a discription for my mobile friendly class project
 
 ## Project Author
 
